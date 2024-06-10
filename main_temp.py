@@ -8,4 +8,5 @@ print(fah_1, " la do f ")
 fah_2 = float(input("nhap do f: "))
 cel_2 = to_c.fah_to_cel(fah_2)
 print(cel_2, " la do c ")
+print(123)
 
