@@ -14,6 +14,7 @@ dien_tich_hinh_vuong = hi_vuong.dien_tich(canh_hinh_vuong)
 print("chu vi hinh vuong: ", chu_vi_hinh_vuong)
 print("dien tich hinh vuong: ", dien_tich_hinh_vuong)
 
+
 ban_kinh_day = float(input("ban kinh day: "))
 duong_cao = float(input("duong cao: "))
 the_tich_hinh_tru = hi_tru.the_tich(ban_kinh_day, duong_cao)
